@@ -43,6 +43,8 @@ Neste módulo, vamos colocar a lógica em prática com desafios clássicos e env
 
 Neste módulo, você vai mergulhar nas principais estruturas de dados utilizadas na programação. Vamos aprofundar o entendimento sobre os tipos de dados e explorar, na prática, como funcionam tuplas, listas, dicionários, conjuntos, pilhas, filas, listas encadeadas entre outros. Com exemplos claros e acessíveis, você vai entender quando e por que usar cada estrutura, além de desenvolver um raciocínio mais organizado e eficiente na hora de escrever seus algoritmos.
 
+___
+
 ## Tecnologias
 
 ### Linguagem de Programação
@@ -63,13 +65,13 @@ Neste módulo, você vai mergulhar nas principais estruturas de dados utilizadas
 2. Faça o clone pelo Github:
 
     ```shell
-    git clone https://github.com/mgckaled/rs__ia_para_devs.git
+    git clone https://github.com/mgckaled/rs_logica-prog.git
     ```
 
 3. Acesse o diretório:
 
     ```shell
-    cd rs__ia_para_devs.git
+    cd rs_logica-prog.git
     ```
 
 4. Ative o ambiente virtual pelo terminal
