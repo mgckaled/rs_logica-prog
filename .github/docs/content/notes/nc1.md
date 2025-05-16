@@ -1,6 +1,6 @@
 # Conteúdo Bônus - Estrutura de Dados
 
-> retornar ao [README.md](../../../README.md)
+> retornar ao [README.md](../../../../README.md)
 
 ## Súmário
 
