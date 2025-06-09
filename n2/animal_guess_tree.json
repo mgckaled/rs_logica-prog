@@ -1,0 +1,21 @@
+{
+    "question": "Seu animal gosta de bananas?",
+    "yes": {
+        "question": "Seu animal sabe nadar?",
+        "yes": {
+            "guess": "lontra"
+        },
+        "no": {
+            "guess": "macaco"
+        }
+    },
+    "no": {
+        "question": "Seu animal se alimenta de plantas?",
+        "yes": {
+            "guess": "girafa"
+        },
+        "no": {
+            "guess": "elefante"
+        }
+    }
+}

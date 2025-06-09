@@ -7,7 +7,7 @@ import pandas as pd
 
 def parse_sentence(
     sentence: str
-) -> Tuple[List[str], str, Callable[..., bool], Optional[Tuple[str, Callable[..., bool]]]]:
+) -> tuple[list[str], str, Callable[..., bool], Optional[Tuple[str, Callable[..., bool]]]]:
     """
     Retorna:
       - props: lista de rótulos das variáveis (2 ou 3 itens)

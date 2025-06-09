@@ -15,7 +15,7 @@ Neste módulo, você aprenderá os fundamentos da lógica de programação, desd
 
 > Acesso ao [conteúdo das aulas](.github/docs/content/notes/n1.md).
 >
-> [Quizzes e Teste avaliativos](.github/docs/content/tests/t1.md#questionário-avaliativo)
+> [Quizzes e Teste Avaliativo](.github/docs/content/tests/t1.md#questionário-avaliativo)
 >
 > [Exercício Prático de Fixação](./n1/tabela_verdade.py) - [Tabela Verdade](./n1/tabela_verdade.md)
 
@@ -24,6 +24,10 @@ Neste módulo, você aprenderá os fundamentos da lógica de programação, desd
 ### Nível 2 - Escrevendo o seu primeiro programa
 
 Neste módulo, você aprenderá os princípios essenciais para começar enfim a programar. Vamos desde a preparação do ambiente até a construção de programas interativos, explorando variáveis, estruturas condicionais, loops e funções. Você desenvolverá projetos práticos, como um jogo de adivinhação, consolidando os conceitos enquanto escreve código de verdade.
+
+> Acesso ao [conteúdo das aulas](.github/docs/content/notes/n2.md).
+>
+> [Quizzes e Teste Avaliativo](.github/docs/content/tests/t2.md#questionário-avaliativo)
 
 ---
 
@@ -43,7 +47,7 @@ Neste módulo, vamos colocar a lógica em prática com desafios clássicos e env
 
 Neste módulo, você vai mergulhar nas principais estruturas de dados utilizadas na programação. Vamos aprofundar o entendimento sobre os tipos de dados e explorar, na prática, como funcionam tuplas, listas, dicionários, conjuntos, pilhas, filas, listas encadeadas entre outros. Com exemplos claros e acessíveis, você vai entender quando e por que usar cada estrutura, além de desenvolver um raciocínio mais organizado e eficiente na hora de escrever seus algoritmos.
 
-___
+---
 
 ## Tecnologias
 
