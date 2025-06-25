@@ -17,7 +17,7 @@ Neste módulo, você aprenderá os fundamentos da lógica de programação, desd
 >
 > [Quizzes e Teste Avaliativo](.github/docs/content/tests/t1.md#questionário-avaliativo)
 >
-> [Exercício Prático de Fixação](./n1/tabela_verdade.py) - [Tabela Verdade](./n1/tabela_verdade.md)
+> [Exercício Prático de Fixação](./n1/tabela_verdade.py) - output: [Tabela Verdade](./n1/tabela_verdade.md)
 
 ---
 
@@ -29,11 +29,36 @@ Neste módulo, você aprenderá os princípios essenciais para começar enfim a 
 >
 > [Quizzes e Teste Avaliativo](.github/docs/content/tests/t2.md#questionário-avaliativo)
 
+#### Desafios
+
+1. [`adivinhe um número`](./n2/challenge/a_guess_the_number.py)
+2. [`adivinhe uma cor`](./n2/challenge/b_guess_the_color.py)
+3. [`madlib`](./n2/challenge/c_madlib.py)
+4. [`crachá desenvolvedor`](./n2/challenge/d_dev_badge.py)
+5. [`oráculo da sabedoria`](./n2/challenge/e_oracle_assistant.py.py)
+6. [`quiz`](./n2/challenge/f_quiz.py)
+7. [`número secreto`](./n2/challenge/g_secret_number.py)
+8. [`caça ao tesouro espacial`](./n2/challenge/h_space_treasure_hunt.py)
+
 ---
 
 ### Nível 3 - Lendo, Depurando e entendendo códigos
 
 Neste módulo, vamos desenvolver uma habilidade essencial para qualquer pessoa que programa: a capacidade de ler, entender e depurar códigos com segurança. Você vaboas práticas e também dar os primeiros passos em refatoração - aprendendo a melhorar códigos já existentes. O objetivo é que você desenvolva não só para funcionar, mas para ser entendido, mantido e evoluído com facilidade.
+
+> Acesso ao [conteúdo das aulas](.github/docs/content/notes/n3.md).
+>
+> [Quizzes e Teste Avaliativo](.github/docs/content/tests/t3.md#questionário-avaliativo)
+
+---
+
+### Nível 4 - Boas práticas e legibilidade de código
+
+Neste módulo, vamos desenvolver uma habilidade essencial para qualquer pessoa que programa: a capacidade de ler, entender e depurar códigos com segurança. Você vai descobrir por que a depuração é uma das ferramentas mais poderosas no processo de aprendizagem, entender como o código “pensa” ao ser executado, explorar técnicas de leitura eficiente e conhecer as principais ferramentas que ajudam a encontrar e corrigir erros.
+
+> Acesso ao [conteúdo das aulas](.github/docs/content/notes/n4.md).
+>
+> [Quizzes e Teste Avaliativo](.github/docs/content/tests/t4.md#questionário-avaliativo)
 
 ---
 
@@ -41,9 +66,13 @@ Neste módulo, vamos desenvolver uma habilidade essencial para qualquer pessoa q
 
 Neste módulo, vamos colocar a lógica em prática com desafios clássicos e envolventes que estimulam o raciocínio e a criatividade na resolução de problemas. Abordaremos conceitos como recursividade, decisões e possibilidades, além de desenvolver o pensamento exploratório por meio de exercícios como a Torre de Hanói, o Sapo na Lagoa e outros desafios lógicos. Prepare-se para treinar sua mente, aprender a pensar como um programador e fortalecer sua capacidade de encontrar soluções elegantes para problemas complexos.
 
+> Acesso ao [conteúdo das aulas](.github/docs/content/notes/n5.md).
+>
+> [Quizzes e Teste Avaliativo](.github/docs/content/tests/t5.md#questionário-avaliativo)
+
 ---
 
-### Conteúdo Bonús - Estrutura de Dados
+### Conteúdo Bônus - Estrutura de Dados
 
 Neste módulo, você vai mergulhar nas principais estruturas de dados utilizadas na programação. Vamos aprofundar o entendimento sobre os tipos de dados e explorar, na prática, como funcionam tuplas, listas, dicionários, conjuntos, pilhas, filas, listas encadeadas entre outros. Com exemplos claros e acessíveis, você vai entender quando e por que usar cada estrutura, além de desenvolver um raciocínio mais organizado e eficiente na hora de escrever seus algoritmos.
 
@@ -59,8 +88,7 @@ Neste módulo, você vai mergulhar nas principais estruturas de dados utilizadas
 
 - [`pyenv`](https://github.com/pyenv/pyenv)
 - [`pipenv`](https://pipenv.pypa.io/en/latest/)
-  
-- [![Pipfile](https://img.shields.io/badge/Consultar-Pipfile-blue?style=flat-square)](./Pipfile)  *(Clique no badge para consultar dependências)*
+- [![Pipfile](https://img.shields.io/badge/Consultar-Pipfile-blue?style=flat-square)](./Pipfile) _(Clique no badge para consultar dependências)_
 
 ## Como clonar o projeto?
 
@@ -68,33 +96,33 @@ Neste módulo, você vai mergulhar nas principais estruturas de dados utilizadas
 
 2. Faça o clone pelo Github:
 
-    ```shell
-    git clone https://github.com/mgckaled/rs_logica-prog.git
-    ```
+   ```shell
+   git clone https://github.com/mgckaled/rs_logica-prog.git
+   ```
 
 3. Acesse o diretório:
 
-    ```shell
-    cd rs_logica-prog.git
-    ```
+   ```shell
+   cd rs_logica-prog.git
+   ```
 
 4. Ative o ambiente virtual pelo terminal
 
-    ```shell
-    pipenv shell
-    ```
+   ```shell
+   pipenv shell
+   ```
 
 5. Instale as dependências. (Certifique-se de estar utilzando a versão exata do python - 3.11.9)
 
-    ```shell
-    pipenv install
-    ```
+   ```shell
+   pipenv install
+   ```
 
-    ou, como um recurso de segurança, instale dependências exatas do `requirements.txt`:
+   ou, como um recurso de segurança, instale dependências exatas do `requirements.txt`:
 
-    ```shell
-    pipenv install -r requirements.txt
-    ```
+   ```shell
+   pipenv install -r requirements.txt
+   ```
 
 ---
 

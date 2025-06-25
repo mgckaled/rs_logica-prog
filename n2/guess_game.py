@@ -25,7 +25,7 @@ class Node:
 
     Um nó pode ser de dois tipos:
     - Nó de pergunta: contém o texto da pergunta e referências para
-      os nós filhos (respostas "sim" e "não").
+        os nós filhos (respostas "sim" e "não").
     - Nó de palpite (folha): contém o nome do animal que será chutado.
     """
 

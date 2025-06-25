@@ -10,10 +10,10 @@ def parse_sentence(
 ) -> tuple[list[str], str, Callable[..., bool], Optional[Tuple[str, Callable[..., bool]]]]:
     """
     Retorna:
-      - props: lista de rótulos das variáveis (2 ou 3 itens)
-      - symbol: símbolo do conectivo final ('→','↔','∧','∨')
-      - fn: função que recebe N booleans e retorna o resultado final
-      - inner: opcional (inner_symbol, inner_fn) para subexpressões
+        - props: lista de rótulos das variáveis (2 ou 3 itens)
+        - symbol: símbolo do conectivo final ('→','↔','∧','∨')
+        - fn: função que recebe N booleans e retorna o resultado final
+        - inner: opcional (inner_symbol, inner_fn) para subexpressões
     """
     s = sentence.strip().rstrip('.')
     low = s.lower()
@@ -84,7 +84,7 @@ def generate_truth_table_df(sentence: str) -> pd.DataFrame:
 
     :param sentence: Uma sentenca logica com conectivos  ,  ,  e  .
     :return: DataFrame com colunas para cada propriedade, e a ltima coluna
-             com o resultado da avalia o da senten a l gica.
+            com o resultado da avalia o da senten a l gica.
     """
     props, symbol, fn, inner = parse_sentence(sentence)
     n = len(props)
