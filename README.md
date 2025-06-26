@@ -66,15 +66,24 @@ Neste módulo, vamos desenvolver uma habilidade essencial para qualquer pessoa q
 
 Neste módulo, vamos colocar a lógica em prática com desafios clássicos e envolventes que estimulam o raciocínio e a criatividade na resolução de problemas. Abordaremos conceitos como recursividade, decisões e possibilidades, além de desenvolver o pensamento exploratório por meio de exercícios como a Torre de Hanói, o Sapo na Lagoa e outros desafios lógicos. Prepare-se para treinar sua mente, aprender a pensar como um programador e fortalecer sua capacidade de encontrar soluções elegantes para problemas complexos.
 
-> Acesso ao [conteúdo das aulas](.github/docs/content/notes/n5.md).
->
 > [Quizzes e Teste Avaliativo](.github/docs/content/tests/t5.md#questionário-avaliativo)
+>
+> [Quizzes e Teste Avaliativo](.github/docs/content/tests/tnc1.md#questionário-avaliativo)
+
+**Desafios**:
+
+- [Simulação - Remoção de Bolinhas](./n5/a_ball_removal_simulation.py)
+- [Simulação - Torre de Hanói](./n5/b_hanoi_tower_simulation.py)
+- [Simulação - Saltos do Sapo na Lagoa(sequência de Fibonacci)](./n5/c_frog_jumps_simulation.py)
+- [Simulação - Labirinto](./n5/d_maze_solver.py)
 
 ---
 
 ### Conteúdo Bônus - Estrutura de Dados
 
 Neste módulo, você vai mergulhar nas principais estruturas de dados utilizadas na programação. Vamos aprofundar o entendimento sobre os tipos de dados e explorar, na prática, como funcionam tuplas, listas, dicionários, conjuntos, pilhas, filas, listas encadeadas entre outros. Com exemplos claros e acessíveis, você vai entender quando e por que usar cada estrutura, além de desenvolver um raciocínio mais organizado e eficiente na hora de escrever seus algoritmos.
+
+> Acesso ao [conteúdo das aulas](.github/docs/content/notes/nc1.md).
 
 ---
 
